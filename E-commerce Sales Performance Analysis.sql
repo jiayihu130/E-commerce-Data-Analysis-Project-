@@ -76,7 +76,7 @@ FROM [Salesdata explore]..Salesdata;
 ------------------analyse data
 
 --calculate GMV by month
---注意不放负数
+
 CREATE VIEW MonthlySale AS 
 SELECT
     FORMAT(CAST(Date AS DATE), 'yyyy-MM') AS SalesMonth,
