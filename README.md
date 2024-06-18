@@ -1,14 +1,12 @@
 # Overview
 
-This project involves the analysis of the Bike Stores Database. The main tasks include data extraction using MySQL to query related tables, importing data into Excel workbooks, and creating interactive dashboards using Tableau for comprehensive sales reviews.
-
+This project used sales data from an e-commerce company, using  MS SQL Server to clean and analyze sales and customer data, which was then imported into Power BI to create interactive, detailed sales dashboards.
+ 
 # Analysis Highlights
 
-Utilized MySQL to extract data from related tables using JOIN operations.
-Imported data into Excel workbooks to create PivotTables and PivotCharts for detailed analysis.
-Developed and published interactive Tableau dashboards on the Tableau Public server.
+Using the RFM analysis method to process customer data, the filtered and aggregated data is placed into a view for export.
+Build Power BI reports using bar charts, maps, pie charts, cards, and other visualizations.
 
-# Screenshots📃 
-Here are some visuals from the project:
+# Screenshots
 
-Tableau Dashboard:
+Power BI Dashboard:
