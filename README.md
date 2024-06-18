@@ -5,6 +5,7 @@ This project used sales data from an e-commerce company, using  MS SQL Server to
 # 💡Analysis Highlights
 
 Using the RFM analysis method to process customer data, the filtered and aggregated data is placed into a view for export.
+
 Build Power BI reports using bar charts, maps, pie charts, cards, and other visualizations.
 
 # 📊Screenshots
