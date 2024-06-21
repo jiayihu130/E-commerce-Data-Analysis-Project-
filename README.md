@@ -1,6 +1,8 @@
 # 📋Overview
 
 This project used sales data from an e-commerce company, using  MS SQL Server to clean and analyze sales and customer data, which was then imported into Power BI to create interactive, detailed sales dashboards.
+
+Data Source :https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business/data
  
 # 💡Analysis Highlights
 
